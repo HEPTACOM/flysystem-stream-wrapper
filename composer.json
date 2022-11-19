@@ -1,9 +1,9 @@
 {
-    "name": "twistor/flysystem-stream-wrapper",
+    "name": "kor3k/flysystem-stream-wrapper",
     "type": "library",
     "description": "Adapts Flysystem filesystems to PHP stream wrappers.",
     "license": "MIT",
-    "homepage": "http://github.com/twistor/flysystem-stream-wrapper",
+    "homepage": "http://github.com/kor3k/flysystem-stream-wrapper",
     "authors": [
         {
             "name": "Chris Leppanen",
